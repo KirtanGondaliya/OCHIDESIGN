@@ -18,7 +18,7 @@ function LandingPage() {
                    initial={{width:"0vw"}} 
                    animate={{width:"9vw"}} 
                    transition={{ease:[0.76,0,0.24,1],duration:"1"}} 
-                   className='w-[9vw] h-[6vw]  relative -top-[1.6vw] rounded-md bg-[url("E:\FrontEndDomination\Projects\OchiDesign\src\Components\content-image01.jpg")] bg-cover '></motion.div>
+                   className='w-[9vw] h-[6vw]  relative -top-[1.6vw] rounded-md bg-[url("https://ochi.design/wp-content/uploads/2022/04/content-image01.jpg")] bg-cover '></motion.div>
                 )}
                 <h1 className='text-[9vw] text-[#212121] leading-[6.8vw] uppercase font-["Founders_Grotesk_X"] font-semibold flex items-center '>
                   {item}

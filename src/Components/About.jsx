@@ -32,7 +32,7 @@ function About() {
                     <div className='bg-white h-2 w-2 rounded-full'></div>
                 </div>
             </div>
-            <div className='w-[55%] h-[70vh] bg-[url("E:\FrontEndDomination\Projects\OchiDesign\src\Components\Homepage-Photo-663x469.jpg")] bg-cover  rounded-xl mt-4'>
+            <div className='w-[55%] h-[75vh] bg-[url("https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg")] bg-cover  rounded-xl mt-4'>
             </div>
         </div>
     </div>
